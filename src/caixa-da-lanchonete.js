@@ -47,6 +47,6 @@ class CaixaDaLanchonete {
   
       return total.toFixed(2);
     }
-  }
-  
-  module.exports = CaixaDaLanchonete;
+}
+    
+    export { CaixaDaLanchonete };
